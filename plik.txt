@@ -1,3 +1,5 @@
 Hello Aga
 Jak sie masz
 Idziemy na spacer
+coś dopiszemy w Vimie
+Ala ma kota
