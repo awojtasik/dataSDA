@@ -1,3 +1,4 @@
+nowa genialna funkcjonalność
 vim plik.txt => tak wchodzę do pliku
 Hello Aga
 Jak sie masz
