@@ -1,3 +1,4 @@
+vim plik.txt => tak wchodzę do pliku
 Hello Aga
 Jak sie masz
 Idziemy na spacer
